@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bio</title>
+</head>
+<body>
+    <h1>My name is <b>Abigail Vickery</b>.</h1>
+    <h2><p>I have <i>aspergers autism</i> and can be a bit of an introvert.</p>
+        <p>I like to make digital art on my iPad or iPhone. I also like to make music on the Garage band app.</p><p>I’m a part of a couple different fandoms, including but not limited to </p>
+    <li>Tales of Miraculous Ladybug and Cat Noir</li>
+    <li>My Little Pony Friendship is Magic</li>
+    <li>Pokemon</li>
+    <li>Steven Universe</li>
+    <li>How To Train Your Dragon</li>
+        <p>I have had aspergers autism since I was 3-5 years old.<img src="C:\Users\abiga\Desktop\Lessons\media/Autism_Awareness_Ribbon.png" alt="Asperger's Syndrome." width="500" height="500" />
+             What this means is that while I have a higher than average IQ, I struggle with social skills and cues sometimes.</p> 
+    <p>When I turned 10 years old, my family moved to Mississippi for my dad’s job. He works in the I.T. department at the University Of Mississippi Hospital.
+        I graduated school of class 2019. Not a lot of kids with autism actually graduate, so it was a little bit of a big deal, at least to my mom it was. 
+        For college, I will go to a coding academy in downtown Jackson. There, I will learn the skills that will make me a lot of money in the future.</p></h2>
+        
+        <img src="C:\Users\abiga\Downloads/IMG_0452.PNG" alt="Sparkly Keys and Nightmare Keys." /> <img src="C:\Users\abiga\Downloads/IMG_1578.PNG" alt="iPhone wallpaper" /> <img src="C:\Users\abiga\Downloads/IMG_0913.PNG" alt="Purple Dragon Kwami from Miraculous Ladybug." />
+        <h3>You can see some of my work, or get in touch with me here:
+             <li><a href="https://twitter.com/TheREALPurble" 
+            target="_blank">Twitter</a></li>
+            <li><a href="https://www.instagram.com/purblegirl/"
+                target="_blank">Instagram</a></li>
+                <li><a href="https://github.com/AbiVickery"
+                    target="_blank">GitHub</a></li>
+                    <p>Down below is a video I have made using <em>simple resources</em>.</p>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/6AoX4hASL3Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </h3> <p>This one is just an old comercial that I uploaded on my channel.</p>
+        <h4><iframe width="560" height="315" src="https://www.youtube.com/embed/1uN_Iemty9o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></h4>
+</body>
+</html>
+
+<!--  -->
